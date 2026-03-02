@@ -1,0 +1,66 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg
+*.egg-info/
+dist/
+build/
+eggs/
+parts/
+var/
+sdist/
+develop-eggs/
+.installed.cfg
+lib/
+lib64/
+
+# Virtual environments
+venv/
+env/
+.env
+.venv
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
+
+# Spark
+checkpoints/
+spark-warehouse/
+metastore_db/
+derby.log
+C:/tmp/
+
+# Spark event logs
+spark-events/
+
+# Ivy / Maven cache (downloaded JARs)
+.ivy2/
+.m2/
+
+# Kafka logs
+kafka-logs/
+
+# IDE
+.vscode/
+.idea/
+*.iml
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log
+logs/
+
+# Environment variables
+.env
+*.env
+
+# Windows
+$RECYCLE.BIN/

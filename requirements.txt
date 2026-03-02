@@ -1,0 +1,10 @@
+# Python dependencies for Advanced Spark Structured Streaming Lab
+
+# Kafka client for Python (using maintained fork for Python 3.12+ compatibility)
+kafka-python-ng==2.2.2
+
+# PySpark for Spark Structured Streaming
+pyspark==3.5.0
+
+# Note: Make sure you have Java 8 or 11 installed
+# Spark requires Java to run
